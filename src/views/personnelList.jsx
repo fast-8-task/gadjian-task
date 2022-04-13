@@ -5,7 +5,7 @@ import { IoChevronBack, IoChevronForward } from 'react-icons/io5';
 
 function PersonnelList() {
 	return (
-		<section className="bg-bg ml-[300px] p-5">
+		<section className="bg-bg ml-[300px] pt-[120px] p-5">
 			<div className="flex justify-between bg-white p-5">
 				<div className="flex flex-col">
 					<h1 className="uppercase text-[30px] text-primary font-bold">
