@@ -2,7 +2,7 @@ import React from 'react';
 
 function Beranda() {
 	return (
-		<div className="bg-primary ml-[300px] p-5 flex flex-col justify-center items-center">
+		<div className="bg-primary ml-[300px] pt-[120px] p-5 flex flex-col justify-center items-center">
 			<h1 className="text-white font-bold text-[28px]">
 				Hemat Rp 20 Juta/Tahun Mengelola HRD
 			</h1>

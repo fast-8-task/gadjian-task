@@ -6,7 +6,7 @@ import { FaRegCalendarAlt } from 'react-icons/fa';
 
 function Sidebar() {
 	return (
-		<div className="w-[300px] h-screen bg-white fixed pt-4">
+		<div className="w-[300px] mt-[100px] h-screen bg-white fixed pt-4">
 			<ul className="px-[30px]">
 				<li className="p-2 hover:text-primary cursor-pointer">
 					<Link to="/" className="flex items-center">

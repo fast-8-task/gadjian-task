@@ -3,7 +3,7 @@ import logo from '../img/logo.png';
 
 function Navbar() {
 	return (
-		<div className="w-screen h-[100px] flex justify-between px-[30px] py-[10px] bg-white">
+		<div className="w-screen h-[100px] flex justify-between px-[30px] py-[10px] bg-white fixed">
 			<div>
 				<img src={logo} alt="logo" className="w-auto h-[80px]" />
 			</div>
